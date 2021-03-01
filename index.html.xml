@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="songStyle.css"?> 
+    <songlist>
+        <heading> Mallory's Cover Band Set List: </heading>
+        <song>
+            <title>Party in the USA! </title>
+            <artist>Original Artist: Miley Cyrus</artist>
+            <release>Release Year: 2009</release>
+            <genre>Genre: Pop</genre>
+            <br/>
+        </song> 
+        <song>
+            <title>Our Song </title>
+            <artist>Original Artist: Taylor Swift</artist>
+            <release>Release Year: 2006</release>
+            <genre>Genre: Country</genre>
+        </song> 
+        <song>
+            <title>Before He Cheats </title>
+            <artist>Original Artist: Carrie Underwood</artist>
+            <release>Release Year: 2005</release>
+            <genre>Genre: Country</genre>
+        </song> 
+        <song>
+            <title>Crank That</title>
+            <artist>Original Artist: Soulja Boy</artist>
+            <release>Release Year: 2007</release>
+            <genre>Genre: Hip Hop</genre>
+        </song> 
+        <song>
+            <title>Gold Digger </title>
+            <artist>Original Artist: Kanye West</artist>
+            <release>Release Year: 2007</release>
+            <genre>Genre: Hip Hop</genre>
+        </song> 
+        <song>
+            <title>Formation</title>
+            <artist>Original Artist: Beyonce</artist>
+            <release>Release Year: 2016</release>
+            <genre>Genre: Pop</genre>
+        </song> 
+        <song>
+            <title>The Hills</title>
+            <artist>Original Artist: The Weeknd</artist>
+            <release>Release Year: 2015</release>
+            <genre>Genre: Contemporary R and B</genre>
+        </song> 
+        <song>
+            <title> 99 Problems </title>
+            <artist> Original Artist: Jay-Z</artist>
+            <release>Release Year: 2003</release>
+            <genre>Genre: Hip Hop</genre>
+        </song>  
+        <song>
+            <title>Super Bass</title>
+            <artist>Original Artist: Nicki Minaj</artist>
+            <release>Release Year: 2010</release>
+            <genre> Genre: Hip Hop </genre>
+        </song> 
+        <song>
+            <title>Umbrella</title>
+            <artist>Original Artist: Rihanna</artist>
+            <release>Release Year: 2007</release>
+            <genre>Genre: Pop</genre>
+        </song> 
+    </songlist>
